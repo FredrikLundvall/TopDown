@@ -1,0 +1,5 @@
+*.local
+TopDown.exe
+*.identcache
+waveaudio.zip
+__history/
